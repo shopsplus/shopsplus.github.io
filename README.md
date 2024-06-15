@@ -1,6 +1,6 @@
 # Shops+
 
-Do Less, Get More. Shop smart for clothes & fashion! 
+Do Less, Get More. Smartly simplify your shopping for the latest clothes & fashion.
 
 Your lovely cross-site online shopping tool for clothes & fashion is now available on all your iPhone, and iPad and Mac.
 
