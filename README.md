@@ -1,4 +1,5 @@
-
+<body>
+    <div class="container">
         <header>
             <h1>ShopSmart</h1>
             <p>Your ultimate cross-site shopping tool, now on all your devices.</p>
@@ -20,3 +21,8 @@
         <div class="download">
             <a href="#">Download ShopSmart Now</a>
         </div>
+        <footer>
+            <p>&copy; 2024 ShopSmart. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
