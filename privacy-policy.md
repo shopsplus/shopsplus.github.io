@@ -22,7 +22,7 @@ Your information will not be shared with others and is only used internally for 
 
 ## Cookies
 
-We don't collect any cookies, excpet the webpage from the third-party websites (e-commerce stores) you open in the WebView. The webpages will collect your data through cookies from their owne websites. We are not responsible for the privacy practices and data protection measures of these third-party websites.
+We don't collect any cookies, excpet the webpages from the third-party websites (e-commerce stores) you open in the WebView. The webpages will collect your data through cookies from their owne websites. We are not responsible for the privacy practices and data protection measures of these third-party websites.
 
 ## User Awareness
 
