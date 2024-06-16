@@ -1,12 +1,12 @@
-#Privacy Policy
+# Privacy Policy
 
 This Privacy Policy explains how information is collected, used and disclosed by Shops+ with respect to user’s access and use of our service through the application (Referred to below as “Shops+”).
 
-*Information collection
+## Information collection
 When using Shops+, we ask certain information from you:
-**Personal Information: We dont collect any personal data, except that we use 3rd party statics sdk for stat purpose. Users who contact us via email, the email addresses and information you submitted voluntarily will also be collected.
+* Personal Information: We dont collect any personal data, except that we use 3rd party statics sdk for stat purpose. Users who contact us via email, the email addresses and information you submitted voluntarily will also be collected.
 
-*Information usage
+* Information usage
 
 
 
