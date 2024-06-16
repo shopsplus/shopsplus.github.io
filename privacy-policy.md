@@ -1,3 +1,5 @@
+Updated on: June 2024
+
 # Privacy Policy
 
 This Privacy Policy explains how information is collected, used and disclosed by Shops+ with respect to user’s access and use of our service through the application (Referred to below as “Shops+”).
@@ -22,4 +24,4 @@ We don't collect any cookies, excpet 3rd party Websites (e-commerce stores) rely
 
 ## Changes
 
-This Privacy Policy may be revised and modified at some time in the future. We will post on this page and notify you via official notifications or emails. Please check back periodically to keep informed of updates or changes to this Privacy Policy. By continuing to access and to use MinimaList, you are agreeing to be bound by the revised policy.
+We reserve the right to update this Privacy Policy from time to time in order to reflect any changes to our products or services or to comply with changes in our legal and/or regulatory obligations. If we modify our Privacy Policy, we will post the revised version on the website, with an updated revision date. Please check back periodically to keep informed of updates or changes to this Privacy Policy.
