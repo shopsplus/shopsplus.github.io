@@ -8,8 +8,8 @@ This Privacy Policy explains how information is collected, used and disclosed by
 
 The App does not directly collect, store, or process any personal data, except that:
 
-* the App uses 3rd party statics sdk for stat purpose.
-* the App includes a WebView feature that enables you to access third-party websites through the App. Please note that while using the WebView, you may enter personal data (such as usernames and passwords) on these third-party websites. This data will be collected and processed by the third-party websites. We are not responsible for the privacy practices and data protection measures of these third-party websites. We recommend that you read and understand the privacy policies and data protection measures of these websites when using them.
+* the App uses third-party statics sdk for stat purpose.
+* the App includes a WebView feature that enables you to access third-party websites (e-commerce stores) through the App. Please note that while using the WebView, you may enter personal data (such as usernames and passwords) on these third-party websites. This data will be collected and processed by the third-party websites. We are not responsible for the privacy practices and data protection measures of these third-party websites. We recommend that you read and understand the privacy policies and data protection measures of these websites when using them.
 * users who contact us via email, the email addresses and information you submitted voluntarily will also be collected.
 
 ## Information usage
@@ -22,7 +22,7 @@ Your information will not be shared with others and is only used internally for 
 
 ## Cookies
 
-We don't collect any cookies, excpet the webpage from the 3rd party websites (e-commerce stores) you open in the WebView. The webpage will collect your data through cookies from their owne websites. 
+We don't collect any cookies, excpet the webpage from the third-party websites (e-commerce stores) you open in the WebView. The webpages will collect your data through cookies from their owne websites. We are not responsible for the privacy practices and data protection measures of these third-party websites.
 
 ## User Awareness
 
