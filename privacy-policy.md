@@ -20,7 +20,7 @@ Your information will not be shared with others and is only used internally for 
 
 ## Cookies
 
-We don't collect any cookies, excpet 3rd party Websites (e-commerce stores) rely on cookies to ensure shopping cart functional and collect user's preferences to optimize the user experience. 
+We don't collect any cookies, excpet the 3rd party Websites (e-commerce stores) presented in the WebView rely on cookies to provide their services (i.e: shopping cart) and collect user's preferences to optimize the user experience. 
 
 ## Changes
 
