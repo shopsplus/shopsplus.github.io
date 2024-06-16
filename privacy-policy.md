@@ -8,7 +8,11 @@ This Privacy Policy explains how information is collected, used and disclosed by
 
 When using Shops+, we ask certain information from you:
 
-Personal Information: We don't collect any personal data, except that we use 3rd party statics sdk for stat purpose. Users who contact us via email, the email addresses and information you submitted voluntarily will also be collected.
+Personal Information: We don't collect any personal data, except that:
+
+* we use 3rd party statics sdk for stat purpose.
+* Users who contact us via email, the email addresses and information you submitted voluntarily will also be collected.
+* the App includes a WebView feature that enables you to access third-party websites through the App. Please note that while using the WebView, you may enter personal data (such as usernames and passwords) on these third-party websites. This data will be collected and processed by the third-party websites. We are not responsible for the privacy practices and data protection measures of these third-party websites. We recommend that you read and understand the privacy policies and data protection measures of these websites when using them.
 
 ## Information usage
 
