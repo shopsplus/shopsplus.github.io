@@ -14,10 +14,10 @@ When using Shops+, we ask certain information from you:
 ** to respond to your emails, submissions, questions, comments, requests, and complaints and provide customer service.
 ** to analyze usage and trends with anonymous user data, and to improve the quality of our service and user experience.
 
-* Cookies
+# Cookies
 
 We don't collect any cookies, excpet 3rd party Websites (e-commerce stores) rely on cookies to ensure shopping cart functional and collect user's preferences to optimize the user experience. 
 
-* Changes
+# Changes
 
 This Privacy Policy may be revised and modified at some time in the future. We will post on this page and notify you via official notifications or emails. Please check back periodically to keep informed of updates or changes to this Privacy Policy. By continuing to access and to use MinimaList, you are agreeing to be bound by the revised policy.
