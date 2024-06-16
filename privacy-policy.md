@@ -24,6 +24,10 @@ Your information will not be shared with others and is only used internally for 
 
 We don't collect any cookies, excpet the webpage from the 3rd party websites (e-commerce stores) you open in the WebView. The webpage will collect your data through cookies from their owne websites. 
 
+## User Awareness
+
+By using the App, you acknowledge and agree that your personal data may be collected and processed by third-party websites. The App is not responsible for the data processing practices of these third-party websites.
+
 ## Changes
 
 We reserve the right to update this Privacy Policy from time to time in order to reflect any changes to our products or services or to comply with changes in our legal and/or regulatory obligations. If we modify our Privacy Policy, we will post the revised version on the website, with an updated revision date. Please check back periodically to keep informed of updates or changes to this Privacy Policy.
