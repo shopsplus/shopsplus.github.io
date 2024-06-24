@@ -36,7 +36,7 @@ We are committed to protecting the security of the data we collect. We use appro
 
 ## Cookies
 
-We don't collect any cookies, excpet the webpages from the third-party websites (e-commerce stores) you open in the WebView. The webpages will collect your data through cookies from their owne websites. We are not responsible for the privacy practices and data protection measures of these third-party websites.
+We don't collect any cookies, excpet the webpages from the third-party websites you open in the App. The webpages will collect your data through cookies from their owne websites. We are not responsible for the privacy practices and data protection measures of these third-party websites.
 
 ## Third-Party Websites
 
@@ -46,7 +46,10 @@ The App may contain links to third-party websites. We are not responsible for th
 
 ## User Awareness
 
-By using the App, you acknowledge and agree that your personal data may be collected and processed by third-party websites through the WebView. The App is not responsible for the data processing practices of these third-party websites. You agree to use the App at your own risk and understand that we are not responsible for any legal actions taken by online shopping websites regarding the use of their data.
+The App may contain images, links, prices and descriptions from third-party online shopping websites. You agree to use the App at your own risk and understand that we are not responsible for any legal actions or loss taken by third-party websites regarding the use of their data.
+
+By using the App, you acknowledge and agree that your personal data may be collected and processed by third-party websites and statics sdk through the App. The App is not responsible for the data processing practices of these third-party websites and statics sdk vendors. 
+
 
 ## Changes
 
