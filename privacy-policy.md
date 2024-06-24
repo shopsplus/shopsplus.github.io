@@ -22,7 +22,7 @@ The App does not directly collect, store, or process any personal data, except t
 
 ## Information usage
 
-The data extracted from third-party websites is used solely for the purpose of displaying it to you within the App. We do not claim ownership of the data collected from online shopping websites. This data remains the property of the respective websites. The App aggregates and displays this data for informational purposes only.
+The data collected from third-party websites is used solely for the purpose of displaying it to you within the App. We do not claim ownership of the data collected from online shopping websites. This data remains the property of the respective websites. The App aggregates and displays this data for informational purposes only.
 
 Your information will not be shared with others and is only used internally for the purposes described below:
 
