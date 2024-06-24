@@ -1,6 +1,6 @@
 Updated on: June 2024
 
-# Terms of Service
+### Terms of Service
 
 # Privacy Policy
 
