@@ -1,4 +1,4 @@
-# Hop
+# Hop Search
 
 Do Less, Get More. Hop Search simplifies your online shopping for the latest clothes & fashion smartly, effortlessly uncovering a broad range of vibrant product details from diverse sources with our comprehensive search.
 
