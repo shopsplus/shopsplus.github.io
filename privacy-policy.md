@@ -4,7 +4,7 @@ Updated on: June 2024
 
 ## Terms of Service
 
-Welcome to Shops+ ("the App"). By using the App, you agree to comply with and be bound by the following terms and conditions ("Terms of Service"). Please review these Terms of Service carefully. If you do not agree to these terms, you must discontinue use of the App immediately.
+Welcome to Hop Search ("the App"). By using the App, you agree to comply with and be bound by the following terms and conditions ("Terms of Service"). Please review these Terms of Service carefully. If you do not agree to these terms, you must discontinue use of the App immediately.
 
 
 ### Use of the App
@@ -70,7 +70,7 @@ By using the App, you acknowledge that you have read, understood, and agree to b
 
 ## Privacy Policy
 
-This Privacy Policy outlines how information is collected, used and disclosed by Shops+ with respect to user’s access and use of our service through the application (Referred to below as “the App”).
+This Privacy Policy outlines how information is collected, used and disclosed by Hop Search with respect to user’s access and use of our service through the application (Referred to below as “the App”).
 
 ### Information collection
 
