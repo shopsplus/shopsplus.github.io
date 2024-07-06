@@ -1,17 +1,12 @@
-# Shops+
+# Hop
 
-Do Less, Get More. Smartly simplify your shopping for the latest clothes & fashion.
+Do Less, Get More. Shops+ simplifies your online shopping for the latest clothes & fashion smartly, effortlessly uncovering a broad range of vibrant product details from diverse sources with our comprehensive search.
 
-Your lovely cross-site online shopping tool for clothes & fashion is now available on all your iPhone, and iPad and Mac.
+* Discover the latest fashion and clothing trends across multiple favorite online stores
+* Provide the most helpful and up-to-date information in a way that's easy to understand and use
+* Intuitively organize your shopping info so you can find what you're looking for in a snap
+* You can conveniently make your purchases directly on the respective online stores, offering a seamless transition from browsing to buying
 
-Shop+ can help you effortlessly browse and shop across multiple top e-commerce stores, make it easy to discover a broad range of information from a wide variety of sources. 
+Your lovely cross-site online shopping companion for clothes & fashion is now available on all your iPhone, and iPad and Mac.  
 
-## Feature Highlights
-
-* Cross-site product searches for the latest clothes & fashion: search for your favorite e-commerce stores at the same time 
-
-* Smart interaction: present the information in the most useful way & show the most up-to-the-minute information
-
-* Intuitive list: organize the shopping information and make it accessible & useful for you
-
-* Enjoy a seamless shopping experience: proceed with your purchases directly on the e-commerce stores
+Download Shop+ now to enrich your shopping experience!
